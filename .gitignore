@@ -1,0 +1,6 @@
+# Dados dos pacientes (gerado ao usar o sistema)
+pacientes.json
+
+# Arquivos do Python
+__pycache__/
+*.pyc
